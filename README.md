@@ -3,17 +3,6 @@
 A meta-learning framework that automatically recommends the most suitable quantum encoding circuit (ansatz) for binary classification datasets, eliminating the need for exhaustive quantum kernel evaluation at inference time.
 
 > **Paper:** Towards Automated Selection of Quantum Encoding Circuits via Meta-Learning
-```bibtex
-@misc{tung2026automatedselectionquantumencoding,
-  title         = {Towards Automated Selection of Quantum Encoding Circuits via Meta-Learning},
-  author        = {Dao Duy Tung and Nguyen Quoc Chuong and Vu Tuan Hai and Le Bin Ho and Lan Nguyen Tran},
-  year          = {2026},
-  eprint        = {2604.19076},
-  archivePrefix = {arXiv},
-  primaryClass  = {quant-ph},
-  url           = {https://arxiv.org/abs/2604.19076}
-}
-```
 
 ---
 
@@ -122,8 +111,14 @@ Both notebooks evaluate performance under **Task-A** (single best circuit) and *
 If you use this framework in a scientific publication, please cite the accompanying paper:
 
 ```bibtex
-@article{
-  (to be updated upon publication)
+@misc{tung2026automatedselectionquantumencoding,
+  title         = {Towards Automated Selection of Quantum Encoding Circuits via Meta-Learning},
+  author        = {Dao Duy Tung and Nguyen Quoc Chuong and Vu Tuan Hai and Le Bin Ho and Lan Nguyen Tran},
+  year          = {2026},
+  eprint        = {2604.19076},
+  archivePrefix = {arXiv},
+  primaryClass  = {quant-ph},
+  url           = {https://arxiv.org/abs/2604.19076}
 }
 ```
 
